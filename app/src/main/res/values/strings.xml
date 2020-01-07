@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MorDemo</string>
+    <string name="button_main_masterclear_text">恢复出厂设置</string>
+    <string name="button_main_sleep_time_out_text">设置息屏时间</string>
+    <string name="button_main_get_top_app_text">获取前台应用</string>
+    <string name="button_main_silent_install">静默安装</string>
+
+    <!-- Master clear -->
+    <string name="button_masterclear_reset_text">Reset</string>
+
+    <!-- Sleep time out -->
+    <string name="textview_sleeptime_text">Current sleep time : </string>
+    <string name="button_set_sleeptime_text">Set timeout</string>
+    <string name="radiobutton_15s">15秒</string>
+    <string name="radiobutton_30s">30秒</string>
+    <string name="radiobutton_1m">1分钟</string>
+    <string name="radiobutton_2m">2分钟</string>
+    <string name="radiobutton_5m">5分钟</string>
+    <string name="radiobutton_10m">10分钟</string>
+    <string name="radiobutton_30m">30分钟</string>
+
+    <!-- Get top app -->
+    <string name="textview_gettopapp_text">Current top app package name : </string>
+    <string name="textview_silent_install_text">请拷贝target.apk到根目录sdcard/ 下，再点击静默安装按钮！</string>
+
+
+</resources>
